@@ -24,5 +24,3 @@ pip install datasets numpy tqdm
 
 # 3. Run the script
 python NLP_03.py
-
-Let me know if you’d like a requirements.txt or anything else.
