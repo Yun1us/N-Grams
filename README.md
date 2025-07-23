@@ -14,7 +14,7 @@ Included Features:
 
 🔧 Quick Start
 
-# 1. (Optional but recommended) Create virtual environment
+# 1. Create virtual environment
 python -m venv .venv
 source .venv/bin/activate      # on macOS/Linux
 .venv\Scripts\activate         # on Windows
